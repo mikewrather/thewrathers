@@ -1,0 +1,233 @@
+* {
+	direction: rtl;
+}
+
+#home-sliders,
+.su-carousel,
+.su-slider {
+	direction: ltr !important;
+}
+
+.about_couple .couple,
+.home-testimonial .person-info .thumbnail,
+.widget_categories ul li a,
+.timeline ul li.odd,
+.su-tabs-vertical .su-tabs-nav, .pp_nav {
+	float: right !important;
+}
+
+.pp_nav {
+	clear: right!important;
+	margin: 3px 0 0 10px;
+}
+
+.su-spoiler-style-default > .su-spoiler-title {
+	padding-right: 27px !important;
+	padding-left: 0 !important;
+}
+
+.su-slider-slide-title {
+	left: inherit !important;
+	right: 20px;
+}
+
+a.pp_next,
+a.pp_previous,
+a.pp_arrow_previous, a.pp_arrow_next,
+.pp_nav .pp_play, .pp_nav .pp_pause,
+a.pp_close {
+	text-indent: 10000px;
+}
+
+.su-spoiler-title {
+	padding-left: 0 !important;
+	padding-right: 34px !important;
+}
+
+.su-spoiler-icon {
+	left: inherit!important;
+	right: 7px!important;
+}
+
+.su-spoiler-style-default > .su-spoiler-title > .su-spoiler-icon {
+	left: inherit;
+	right: 0;
+}
+
+a.su-button i.fa {
+	margin: 0 0 0 0.5em !important;
+}
+
+.timeline ul li.odd:before {
+	left: -12px;
+	right: inherit;
+}
+
+.timeline ul li.even:before {
+	left: inherit;
+	right: -12px;
+}
+
+.timeline ul li.odd {
+	clear: right;
+}
+
+.timeline .meta {
+	text-align: left;
+}
+
+.timeline ul li.even .meta span {
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+.timeline ul li .meta span {
+	margin-right: 10px;
+	margin-left: 0;
+}
+
+.timeline ul li.even {
+	clear: left;
+}
+
+.su-dropcap {
+	float: right !important;
+	margin: 0.2em 0 0.2em 0.5em !important;
+}
+
+footer#footer .container span.author,
+.timeline ul li.even,
+.su-pullquote-align-right {
+	float: left;
+}
+
+.su-pullquote-align-right {
+	margin: 0.5em 1.5em 1em 0 !important;
+	padding-left: 0 !important;
+	padding-right: 1em !important;
+	float: left !important;
+	border-left: none !important;
+	border-right: 5px solid #eee;
+}
+
+.about_couple .couple {
+	margin-right: 0;
+	margin-left: 7%;
+}
+
+#countdown .number-container {
+    margin-right: 0;
+    margin-left: 3%;
+}
+
+.post-grid article.hentry {
+	margin: 0 0 3% 3%;
+}
+
+.home-testimonial .person-info .thumbnail {
+	margin-right: 0;
+	margin-left: 20px;
+}
+
+.home-testimonial .testimonial .text:before {
+	left: 0;
+	right: 40px;
+}
+
+.home-testimonial .testimonial .text:after {
+	left: 0;
+	right: 43px;
+}
+
+form.wpcf7-form p > label, 
+form.wpcf7-form .wpcf7-not-valid-tip,
+.wp-pagenavi,
+.timeline ul li.even .meta {
+	text-align: right;
+}
+
+.wp-pagenavi a, .wp-pagenavi span {
+	display: inline-block;
+}
+
+#map-wrapper .map-detail {
+	width: 200px;
+	margin-left: 0;
+	margin-right: 10px;
+	line-height: 1.4em;
+}
+
+.sidebar-heading {
+	padding-right: 0;
+	padding-left: 10px;
+}
+
+#left-content .meta span {
+	margin-right: 0;
+	margin-left: 20px;
+}
+
+.meta a {
+	display: inline-block;
+}
+
+.meta .fa {
+	margin-right: 0;
+	margin-left: 5px;
+}
+
+.tags ul li, .widget_tag_cloud .tagcloud a {
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+.moment .thumbnail {
+	line-height: 0;
+}
+
+.moment .thumbnail img {
+	width: 100%;
+}
+
+
+/* RTL Responsive */
+
+@media screen and (max-width: 800px) {
+
+
+	.home-testimonial .person-info {
+		float: right;
+		text-align: right;
+	}
+
+	footer#footer .container span.author {
+		float: none;
+	}
+
+	.timeline:before {
+		left: inherit;
+		right: 10px;
+	}
+
+	.timeline ul li.odd .meta {
+		text-align: right;
+	}
+
+	.timeline ul li {
+		padding: 0 50px 0 0;
+	}
+
+	.timeline ul li.even:before,
+	.timeline ul li.odd:before {
+		left: inherit !important;
+		right: 0 !important;
+	}
+
+	.timeline ul li .meta span {
+		display: inline-block;
+		margin-left: 10px !important;
+		margin-right: 0 !important;
+		margin-bottom: 10px;
+	}
+
+}

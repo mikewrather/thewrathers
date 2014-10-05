@@ -1,0 +1,418 @@
+@media screen and (max-width: 1100px) and (min-width: 1000px) {
+	.post-grid h2.entry-title {
+		top: inherit;
+		bottom: 15px;
+		font-size: 16px;
+	}
+
+
+}
+
+@media screen and (max-width: 1000px) {
+
+	#countdown .number-container .number {
+		font-size: 38px !important;
+	}
+
+	.post-grid article.hentry {
+		margin-bottom: 60px;
+	}
+
+}
+
+@media screen and (max-width: 1200px) and (min-width: 800px) {
+
+	.gallery-widget li a i.fa {
+		font-size: 30px;
+	}
+
+	.gallery-widget li span.entry-title {
+		font-size: 14px;
+	}
+
+	.post-grid article.hentry,
+	.post-grid article.hentry:nth-child(3n+3) {
+		width: 47%;
+		margin-right: 5%;
+	}
+
+	.post-grid article.hentry:nth-child(2n+2) {
+		margin-right: 0;
+	}
+}
+
+@media screen and (max-width: 1600px){
+    .container{
+        width: 90%;
+        max-width: 90%;
+    }
+}
+@media screen and (max-width: 800px) {
+	#logo {
+		top: 40%;
+	}
+
+	body.home #logo .couplesname {
+		font-size: 70px !important;
+	}
+
+	body.admin-bar nav#main-menu.fixed,
+	body.admin-bar nav#main-menu.not-home.fixed {
+		top: 0;
+	}
+
+	.home-testimonial .person-info {
+		float: left;
+		text-align: left;
+	}
+
+	nav#main-menu ul {
+		display: none;
+	}
+
+	.about_couple .couple {
+		width: 100%;
+		margin-right: 0;
+		margin-bottom: 50px;
+	}
+
+	.post-grid article.hentry {
+		width: 100%;
+		margin: 0 0 60px 0;
+	}
+
+	.post-grid h2.entry-title {
+		top: inherit;
+		bottom: 40px;
+	}
+
+
+	.timeline:before {
+		left: 10px;
+	}
+
+	.timeline ul li {
+		width: 100%;
+		padding: 0 0 0 50px;
+		position: relative;
+		margin-top: 0 !important;
+		text-align: left !important;
+		margin-bottom: 50px;
+		float: left !important;
+		clear: left !important;
+	}
+
+	.timeline ul li:before {
+		margin-top: 0;
+	}
+
+	.timeline ul li .meta span {
+		display: inline-block;
+		margin-left: 0 !important;
+		margin-right: 10px !important;
+		margin-bottom: 10px;
+	}
+
+	.timeline ul li .meta {
+		text-align: left;
+		margin-bottom: 20px;
+		margin-top: 0;
+	}
+
+	.timeline ul li:before {	
+		left: 0 !important;
+		margin-left: -2px !important;
+	}
+
+	select.select-menu.main {
+		display: block;
+	}
+
+	#countdown .number-container .number {
+		font-size: 25px !important;
+		margin: 20px 10px;
+	}
+
+	#countdown .number-container .text {
+		font-size: 10px !important;
+	}
+
+	.slider-post .overlay {
+		top: 180px;
+	}
+
+	.overlay .post-wrapper {
+		width: 380px;
+	}
+
+	.slider-post ul li img {
+		height: 580px;
+		width: auto;
+		margin-left: -30%;
+	}
+
+	.gallery-widget ul li {
+		width: 50%;
+		margin: 0;
+	}
+
+	.events-grid .event-post {
+		width: 48%;
+	}
+
+	.slider-post .flex-direction-nav li:last-child{
+		right: 0 !important;
+		left: inherit !important;
+	}
+
+	.slider-post .flex-direction-nav li {
+		left: 0 !important;
+	}
+
+	.home-testimonial .testimonial {
+		padding: 0;
+		text-align: center;
+	}
+
+	ul.gallery li {
+		width: 45% !important;
+	}
+
+	.testimonial .thumbnail {
+		float: none;
+		margin: 0 auto 20px auto;
+	}
+
+	.testimonial .flex-direction-nav li:last-child {
+		right: -30px !important;
+		left: inherit !important;
+	}
+
+	.home-testimonial .person-info .info {
+		width: auto;
+	}
+
+	.testimonial .flex-direction-nav li {
+		left: -30px !important;
+	}
+
+	.pagination a {
+		padding: 10px;
+		font-size: 12px;
+	}
+
+	.home-couple-tweets ul#tweets-updates li {
+		width: 100%;
+		margin-bottom: 60px;
+	}
+
+	.home-couple-tweets ul#tweets-updates li.right .thumbnail {
+		float: left;
+	}
+
+	.home-couple-tweets ul#tweets-updates li.right .tweets-content {
+		margin-left: 140px;
+		margin-right: 0;
+	}
+
+	.home-couple-tweets ul#tweets-updates li.right .tweets-content .heading {
+		text-align: left;
+	}
+
+	footer#footer {
+		text-align: center;
+	}
+
+	footer#footer .container span.author {
+		float: none;
+		display: block;
+	}
+}
+
+@media screen and (max-width: 600px) {
+
+	.couplesname {
+		font-size: 100px;
+	}
+
+	.couplesname span {
+		display: block;
+		margin: 40px 0 10px;
+	}
+
+	#logo .text {
+		font-size: 24px !important;
+	}
+
+	#right-content,
+	#left-content {
+		width: 100%;
+		margin-right: 0;
+		margin-bottom: 50px;
+	}
+
+	.overlay .post-wrapper {
+		width: auto;
+		margin: 0 50px;
+	}
+
+	.post-grid h2.entry-title {
+		top: inherit;
+		bottom: 15px;
+	}
+
+	.slider-post ul li img {
+		height: 480px;
+		margin-left: -40%;
+	}
+
+	.events-grid .event-post {
+		width: 100%;
+	}
+
+	.flex-direction-nav a {
+		width: 30px !important;
+		height: 30px !important;
+	}
+
+	.flex-direction-nav a:before {
+		font-size: 40px !important;
+	}
+
+	.testimonial {
+		padding: 0 50px;
+	}
+
+	.testimonial .thumbnail {
+		float: none;
+		margin: 0 auto 20px auto;
+		width: 100px;
+		height: 100px;
+	}
+
+	.testimonial quote {
+		font-size: 14px;
+	}
+
+	.testimonial cite {
+		font-size: 10px;
+	}
+
+	.flex-control-nav {
+		bottom: -70px !important;
+	}
+
+	.rsvp-holder,
+	.text-rsvp {
+		width: 100%;
+		margin-bottom: 30px;
+	}
+
+	.home-couple-tweets ul#tweets-updates li .thumbnail {
+		width: 80px;
+		height: 80px;
+	}
+
+	.home-couple-tweets ul#tweets-updates li .tweets-content {
+		margin-left: 100px !important;
+	}
+
+	.gallery-widget li a {
+		top: 25%;
+	}
+
+	.gallery-widget li span.entry-title {
+		font-size: 16px;
+	}
+
+}
+
+@media screen and (max-width: 480px) {
+	#logo {
+		top: 30%;
+	}
+	
+	body.home #logo .couplesname {
+		line-height: 100%;
+	}
+
+	.gallery-widget ul li {
+		width: 100%;
+	}
+
+	.slider-post ul li img {
+		height: 580px;
+		margin-left: -105%;
+	}
+
+	.home-testimonial .testimonial {
+		padding: 0;
+	}
+
+	.home-couple-tweets ul#tweets-updates li .thumbnail {
+		display: none;
+	}
+
+	.home-couple-tweets ul#tweets-updates li .tweets-content {
+		margin-left: 0 !important;
+	}
+
+	.home-couple-tweets ul#tweets-updates li {
+		margin-right: 0;
+	}
+
+	ul.gallery li {
+		width: 100% !important;
+		margin-left: 0 !important;
+		margin-right: 0 !important;
+	}
+
+	.comments ul li ul {
+		margin-left: 40px;
+	}
+
+	.comments ul li .thumbnail {
+		width: 60px;
+		height: 60px;
+	}
+
+	.comments ul li .detail {
+		margin-left: 80px;
+	}
+
+	.home-countdown .container {
+		width: 100%;
+	}
+	
+	#countdown .number-container {
+		margin: 20px 0 !important;
+	}
+	
+	#countdown .number-container .number {
+		font-size: 13px !important;
+		margin-right: 2% !important;
+		padding: 5px !important;
+		border-width: 2px !important;
+	}
+
+	.gallery-columns-4 dl.gallery-item,
+	.gallery-columns-3 dl.gallery-item {
+		width: 100% !important;
+		margin: 0 0 20px 0 !important;
+	}
+
+	dl.gallery-item a:before {
+		display: none;
+	}
+
+	/* prettyPhoto styling for small screens */
+	.pp_pic_holder.pp_default { width: 100%!important; left: 0!important; overflow: hidden; }
+	div.pp_default .pp_content_container .pp_left { padding-left: 0!important; }
+	div.pp_default .pp_content_container .pp_right { padding-right: 0!important; }
+	.pp_content { width: 100%!important; height: auto!important; }
+	.pp_fade { width: 100%!important; height: 100%!important; }
+	a.pp_expand, a.pp_contract, .pp_hoverContainer, .pp_gallery, .pp_top, .pp_bottom { display: none!important; }
+	#pp_full_res img { width: 100%!important; height: auto!important; }
+	.pp_details { width: 100%!important; padding-left: 3%; padding-right: 4%; padding-top: 10px; padding-bottom: 10px; background-color: #fff; margin-top: -2px!important; }
+	a.pp_close { right: 10px!important; top: 10px!important; }
+}

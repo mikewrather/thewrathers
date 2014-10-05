@@ -1,0 +1,17 @@
+** Changelog for Merit WordPress theme **
+** Author: http://www.themewarrior.com **
+
+
+September 9th, 2014 -- Version 1.0.2
+- Fix footer copyright alignment
+- Cosmetic changes
+- Fix history timeline bar top position
+
+
+September 8th, 2014 -- Version 1.0.1
+- Add RTL support
+- Fix animation issue
+- Update Redux Framework
+
+August 28th, 2014 -- Version 1.0.0
+- Theme is released

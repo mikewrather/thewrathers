@@ -1,0 +1,2292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Merit (1.0.0)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-26 05:32+0700\n"
+"PO-Revision-Date: 2014-08-26 05:32+0700\n"
+"Last-Translator: ThemeWarrior <support@themewarrior.com>\n"
+"Language-Team: ThemeWarrior <support@themewarrior.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;_e\n"
+"X-Poedit-Basepath: ./\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:14
+msgid "Page not Found"
+msgstr ""
+
+#: ../404.php:19
+msgid ""
+"The page you're looking for is not available. The page may have been deleted "
+"or unpublished. Please use the search form below to search the page you are "
+"looking for."
+msgstr ""
+
+#: ../comments.php:23
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:23
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:23
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:31
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../comments.php:32
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../comments.php:47
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:48
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:49
+msgid "Website URL"
+msgstr ""
+
+#: ../comments.php:54
+msgid "Submit"
+msgstr ""
+
+#: ../comments.php:55
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:57
+msgid "Message..."
+msgstr ""
+
+#: ../content-event.php:91
+msgid "Event Location on the Map"
+msgstr ""
+
+#: ../content.php:37 ../page-full-width.php:26 ../page.php:25
+msgid "Pages:"
+msgstr ""
+
+#: ../content.php:41
+msgid "<p class=\"tags\">Tags: "
+msgstr ""
+
+#: ../footer.php:19
+#, php-format
+msgid "Copyright %1$s. %2$s"
+msgstr ""
+
+#: ../footer.php:20
+#, php-format
+msgid "Powered by %1$s. Designed by %2$s"
+msgstr ""
+
+#: ../functions.php:102 ../functions/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions.php:103 ../functions/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions.php:104 ../functions/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions.php:105
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:116 ../functions/class-tgm-plugin-activation.php:178
+#: ../functions/class-tgm-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions.php:117 ../functions/class-tgm-plugin-activation.php:179
+#: ../functions/class-tgm-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions.php:118
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:517
+#: ../functions/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#: ../functions/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#: ../functions/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/redux/extensions/customizer/extension_customizer.php:469
+#: ../functions/redux/framework.php:1799
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: ../functions/redux/extensions/customizer/extension_customizer.php:470
+#: ../functions/redux/framework.php:1807
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: ../functions/redux/extensions/customizer/extension_customizer.php:471
+#: ../functions/redux/framework.php:1823
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../functions/redux/extensions/customizer/extension_customizer.php:504
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: ../functions/redux/extensions/customizer/extension_customizer.php:505
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: ../functions/redux/extensions/customizer/extension_customizer.php:506
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../functions/redux/framework.php:171
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: ../functions/redux/framework.php:171
+msgid "Redux Framework"
+msgstr ""
+
+#: ../functions/redux/framework.php:175 ../functions/redux/framework.php:179
+msgid "Options"
+msgstr ""
+
+#: ../functions/redux/framework.php:1255 ../functions/redux/framework.php:1256
+#: ../functions/redux/framework.php:3400 ../functions/redux/framework.php:3479
+msgid "System Info"
+msgstr ""
+
+#: ../functions/redux/framework.php:1815
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: ../functions/redux/framework.php:1830
+msgid "Please Wait"
+msgstr ""
+
+#: ../functions/redux/framework.php:1976
+msgid "Hints"
+msgstr ""
+
+#: ../functions/redux/framework.php:1977
+msgid "<p>"
+msgstr ""
+
+#: ../functions/redux/framework.php:2101
+msgid "Default"
+msgstr ""
+
+#: ../functions/redux/framework.php:3151
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: ../functions/redux/framework.php:3198
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: ../functions/redux/framework.php:3226
+msgid "Expand"
+msgstr ""
+
+#: ../functions/redux/framework.php:3228 ../functions/redux/framework.php:3536
+msgid "Save Changes"
+msgstr ""
+
+#: ../functions/redux/framework.php:3232 ../functions/redux/framework.php:3540
+msgid "Reset Section"
+msgstr ""
+
+#: ../functions/redux/framework.php:3234 ../functions/redux/framework.php:3542
+msgid "Reset All"
+msgstr ""
+
+#: ../functions/redux/framework.php:3239 ../functions/redux/framework.php:3547
+msgid "Working..."
+msgstr ""
+
+#: ../functions/redux/framework.php:3259
+msgid "Settings Imported!"
+msgstr ""
+
+#: ../functions/redux/framework.php:3274
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: ../functions/redux/framework.php:3288
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: ../functions/redux/framework.php:3302
+msgid "Settings Saved!"
+msgstr ""
+
+#: ../functions/redux/framework.php:3320
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: ../functions/redux/framework.php:3328
+msgid "error(s) were found!"
+msgstr ""
+
+#: ../functions/redux/framework.php:3336
+msgid "warning(s) were found!"
+msgstr ""
+
+#: ../functions/redux/inc/class.redux_filesystem.php:22
+msgid "Unable to create a required directory. Please ensure that"
+msgstr ""
+
+#: ../functions/redux/inc/class.redux_filesystem.php:24
+msgid ""
+"has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+
+#: ../functions/redux/inc/class.redux_functions.php:253
+msgid "Dismiss"
+msgstr ""
+
+#: ../functions/redux/inc/debug.php:41 ../functions/redux/inc/debug.php:69
+#: ../functions/redux/inc/debug.php:76 ../functions/redux/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+#: ../functions/redux/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: ../functions/redux/inc/fields/background/field_background.php:124
+#: ../functions/redux/inc/fields/color/field_color.php:72
+#: ../functions/redux/inc/fields/color_gradient/field_color_gradient.php:79
+#: ../functions/redux/inc/fields/color_gradient/field_color_gradient.php:91
+#: ../functions/redux/inc/fields/color_rgba/field_color_rgba.php:77
+msgid "Transparent"
+msgstr ""
+
+#: ../functions/redux/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: ../functions/redux/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: ../functions/redux/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: ../functions/redux/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: ../functions/redux/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: ../functions/redux/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: ../functions/redux/inc/fields/background/field_background.php:277
+#: ../functions/redux/inc/fields/media/field_media.php:116
+msgid "No media selected"
+msgstr ""
+
+#: ../functions/redux/inc/fields/background/field_background.php:314
+#: ../functions/redux/inc/fields/media/field_media.php:159
+#: ../functions/redux/inc/fields/slides/field_slides.php:126
+#: ../functions/redux/inc/fields/slides/field_slides.php:188
+#: ../includes/widgets/warrior-couple-tweets.php:188
+#: ../includes/widgets/warrior-couple-tweets.php:216
+#: ../includes/widgets/warrior-map.php:94
+msgid "Upload"
+msgstr ""
+
+#: ../functions/redux/inc/fields/background/field_background.php:321
+#: ../functions/redux/inc/fields/media/field_media.php:166
+#: ../functions/redux/inc/fields/multi_text/field_multi_text.php:69
+#: ../functions/redux/inc/fields/multi_text/field_multi_text.php:73
+#: ../functions/redux/inc/fields/multi_text/field_multi_text.php:76
+#: ../functions/redux/inc/fields/slides/field_slides.php:133
+#: ../functions/redux/inc/fields/slides/field_slides.php:190
+#: ../includes/widgets/warrior-couple-tweets.php:189
+#: ../includes/widgets/warrior-couple-tweets.php:217
+#: ../includes/widgets/warrior-map.php:95
+msgid "Remove"
+msgstr ""
+
+#: ../functions/redux/inc/fields/border/field_border.php:114
+#: ../functions/redux/inc/fields/spacing/field_spacing.php:191
+#: ../page-gallery.php:28
+msgid "All"
+msgstr ""
+
+#: ../functions/redux/inc/fields/border/field_border.php:127
+#: ../functions/redux/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: ../functions/redux/inc/fields/border/field_border.php:134
+#: ../functions/redux/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: ../functions/redux/inc/fields/border/field_border.php:141
+#: ../functions/redux/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: ../functions/redux/inc/fields/border/field_border.php:148
+#: ../functions/redux/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: ../functions/redux/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr ""
+
+#: ../functions/redux/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: ../functions/redux/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: ../functions/redux/inc/fields/dimensions/field_dimensions.php:161
+msgid "Width"
+msgstr ""
+
+#: ../functions/redux/inc/fields/dimensions/field_dimensions.php:177
+#: ../functions/redux/inc/fields/typography/field_typography.php:465
+msgid "Height"
+msgstr ""
+
+#: ../functions/redux/inc/fields/dimensions/field_dimensions.php:188
+#: ../functions/redux/inc/fields/dimensions/field_dimensions.php:189
+#: ../functions/redux/inc/fields/spacing/field_spacing.php:245
+#: ../functions/redux/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: ../functions/redux/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: ../functions/redux/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: ../functions/redux/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: ../functions/redux/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: ../functions/redux/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: ../functions/redux/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr ""
+
+#: ../functions/redux/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: ../functions/redux/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr ""
+
+#: ../functions/redux/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+#: ../functions/redux/inc/fields/select/field_select.php:82
+#: ../functions/redux/inc/fields/select_image/field_select_image.php:62
+msgid "Select an item"
+msgstr ""
+
+#: ../functions/redux/inc/fields/select/field_select.php:126
+#: ../functions/redux/inc/fields/select_image/field_select_image.php:143
+msgid "No items of this type were found."
+msgstr ""
+
+#: ../functions/redux/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: ../functions/redux/inc/fields/slides/field_slides.php:73
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ../functions/redux/inc/fields/slides/field_slides.php:145
+#: ../functions/redux/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr ""
+
+#: ../functions/redux/inc/fields/slides/field_slides.php:149
+#: ../functions/redux/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: ../functions/redux/inc/fields/slides/field_slides.php:153
+#: ../functions/redux/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: ../functions/redux/inc/fields/slides/field_slides.php:167
+#: ../functions/redux/inc/fields/slides/field_slides.php:220
+#, php-format
+msgid "Delete %s"
+msgstr ""
+
+#: ../functions/redux/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: ../functions/redux/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: ../functions/redux/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: ../functions/redux/inc/fields/typography/field_typography.php:256
+msgid "Font Family"
+msgstr ""
+
+#: ../functions/redux/inc/fields/typography/field_typography.php:257
+msgid "Font family"
+msgstr ""
+
+#: ../functions/redux/inc/fields/typography/field_typography.php:283
+#: ../functions/redux/inc/fields/typography/field_typography.php:284
+msgid "Backup Font Family"
+msgstr ""
+
+#: ../functions/redux/inc/fields/typography/field_typography.php:298
+#: ../functions/redux/inc/fields/typography/field_typography.php:305
+msgid "Font style"
+msgstr ""
+
+#: ../functions/redux/inc/fields/typography/field_typography.php:299
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: ../functions/redux/inc/fields/typography/field_typography.php:305
+msgid "Style"
+msgstr ""
+
+#: ../functions/redux/inc/fields/typography/field_typography.php:345
+msgid "Font subsets"
+msgstr ""
+
+#: ../functions/redux/inc/fields/typography/field_typography.php:347
+msgid "Font Subsets"
+msgstr ""
+
+#: ../functions/redux/inc/fields/typography/field_typography.php:348
+msgid "Subsets"
+msgstr ""
+
+#: ../functions/redux/inc/fields/typography/field_typography.php:348
+msgid "Font script"
+msgstr ""
+
+#: ../functions/redux/inc/fields/typography/field_typography.php:365
+#: ../functions/redux/inc/fields/typography/field_typography.php:366
+#: ../functions/redux/inc/fields/typography/field_typography.php:367
+msgid "Text Align"
+msgstr ""
+
+#: ../functions/redux/inc/fields/typography/field_typography.php:388
+#: ../functions/redux/inc/fields/typography/field_typography.php:389
+#: ../functions/redux/inc/fields/typography/field_typography.php:390
+msgid "Text Transform"
+msgstr ""
+
+#: ../functions/redux/inc/fields/typography/field_typography.php:411
+#: ../functions/redux/inc/fields/typography/field_typography.php:412
+#: ../functions/redux/inc/fields/typography/field_typography.php:413
+msgid "Font Variant"
+msgstr ""
+
+#: ../functions/redux/inc/fields/typography/field_typography.php:431
+#: ../functions/redux/inc/fields/typography/field_typography.php:432
+#: ../functions/redux/inc/fields/typography/field_typography.php:433
+msgid "Text Decoration"
+msgstr ""
+
+#: ../functions/redux/inc/fields/typography/field_typography.php:455
+#: ../functions/redux/inc/fields/typography/field_typography.php:456
+msgid "Font Size"
+msgstr ""
+
+#: ../functions/redux/inc/fields/typography/field_typography.php:456
+msgid "Size"
+msgstr ""
+
+#: ../functions/redux/inc/fields/typography/field_typography.php:464
+#: ../functions/redux/inc/fields/typography/field_typography.php:465
+msgid "Line Height"
+msgstr ""
+
+#: ../functions/redux/inc/fields/typography/field_typography.php:473
+#: ../functions/redux/inc/fields/typography/field_typography.php:474
+msgid "Word Spacing"
+msgstr ""
+
+#: ../functions/redux/inc/fields/typography/field_typography.php:482
+#: ../functions/redux/inc/fields/typography/field_typography.php:483
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../functions/redux/inc/fields/typography/field_typography.php:501
+msgid "Font Color"
+msgstr ""
+
+#: ../functions/redux/inc/fields/typography/field_typography.php:503
+msgid "Font color"
+msgstr ""
+
+#: ../functions/redux/inc/fields/typography/field_typography.php:861
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../functions/redux/inc/fields/typography/field_typography.php:968
+msgid "Google Webfonts"
+msgstr ""
+
+#: ../functions/redux/inc/import_export.php:78
+msgid "Import / Export Options"
+msgstr ""
+
+#: ../functions/redux/inc/import_export.php:81
+msgid "Import Options"
+msgstr ""
+
+#: ../functions/redux/inc/import_export.php:82
+msgid "Import from file"
+msgstr ""
+
+#: ../functions/redux/inc/import_export.php:82
+msgid "Import from URL"
+msgstr ""
+
+#: ../functions/redux/inc/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../functions/redux/inc/import_export.php:90
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../functions/redux/inc/import_export.php:94
+msgid "Import"
+msgstr ""
+
+#: ../functions/redux/inc/import_export.php:94
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../functions/redux/inc/import_export.php:97
+msgid "Export Options"
+msgstr ""
+
+#: ../functions/redux/inc/import_export.php:100
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ../functions/redux/inc/import_export.php:104
+msgid "Copy"
+msgstr ""
+
+#: ../functions/redux/inc/import_export.php:104
+msgid "Download"
+msgstr ""
+
+#: ../functions/redux/inc/import_export.php:104
+msgid "Copy Link"
+msgstr ""
+
+#: ../functions/redux/inc/import_export.php:140
+#: ../functions/redux/inc/import_export.php:149
+#: ../functions/redux/inc/import_export.php:150
+msgid "Import / Export"
+msgstr ""
+
+#: ../functions/redux/inc/tracking.php:130
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: ../functions/redux/inc/tracking.php:131
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: ../functions/redux/inc/tracking.php:136
+msgid "Allow tracking"
+msgstr ""
+
+#: ../functions/redux/inc/tracking.php:141
+msgid "Do not allow tracking"
+msgstr ""
+
+#: ../functions/redux/inc/tracking.php:152
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: ../functions/redux/inc/tracking.php:153
+#: ../functions/redux/inc/welcome.php:125
+msgid "Getting Started"
+msgstr ""
+
+#: ../functions/redux/inc/tracking.php:153
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: ../functions/redux/inc/tracking.php:153
+msgid "our documentation"
+msgstr ""
+
+#: ../functions/redux/inc/tracking.php:154
+msgid "Redux Generator"
+msgstr ""
+
+#: ../functions/redux/inc/tracking.php:154
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: ../functions/redux/inc/tracking.php:155
+msgid "Redux Extensions"
+msgstr ""
+
+#: ../functions/redux/inc/tracking.php:155
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: ../functions/redux/inc/tracking.php:155
+msgid "extensions directory"
+msgstr ""
+
+#: ../functions/redux/inc/tracking.php:156
+msgid "Like Redux?"
+msgstr ""
+
+#: ../functions/redux/inc/tracking.php:156
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: ../functions/redux/inc/tracking.php:156
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: ../functions/redux/inc/tracking.php:156
+msgid "donation"
+msgstr ""
+
+#: ../functions/redux/inc/tracking.php:157
+msgid "Newsletter"
+msgstr ""
+
+#: ../functions/redux/inc/tracking.php:157
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: ../functions/redux/inc/tracking.php:158
+msgid "Email address"
+msgstr ""
+
+#: ../functions/redux/inc/tracking.php:158
+msgid "Subscribe"
+msgstr ""
+
+#: ../functions/redux/inc/tracking.php:167
+msgid "Close"
+msgstr ""
+
+#: ../functions/redux/inc/validation/color/validation_color.php:15
+#: ../functions/redux/inc/validation/color_rgba/validation_color_rgba.php:14
+#: ../functions/redux/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../functions/redux/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: ../functions/redux/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../functions/redux/inc/validation/email/validation_email.php:16
+#: ../functions/redux/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../functions/redux/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../functions/redux/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../functions/redux/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: ../functions/redux/inc/validation/numeric/validation_numeric.php:16
+#: ../functions/redux/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../functions/redux/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:40
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:45
+#: ../functions/redux/inc/welcome.php:259
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:50
+msgid "Getting started with Redux Framework"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:55
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:122
+msgid "What's New"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:128
+msgid "Changelog"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:131
+msgid "Credits"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:148
+#: ../functions/redux/inc/welcome.php:291
+#: ../functions/redux/inc/welcome.php:410
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:149
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready to "
+"<add description>"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:150
+#: ../functions/redux/inc/welcome.php:261
+#: ../functions/redux/inc/welcome.php:293
+#: ../functions/redux/inc/welcome.php:412
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:155
+msgid "Some Feature"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:159
+#: ../functions/redux/inc/welcome.php:162
+#: ../functions/redux/inc/welcome.php:174
+#: ../functions/redux/inc/welcome.php:177
+#: ../functions/redux/inc/welcome.php:180
+#: ../functions/redux/inc/welcome.php:185
+#: ../functions/redux/inc/welcome.php:196
+#: ../functions/redux/inc/welcome.php:199
+#: ../functions/redux/inc/welcome.php:204
+msgid "Feature"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:169
+msgid "Some feature"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:192
+msgid "More Features"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:197
+#: ../functions/redux/inc/welcome.php:200
+#: ../functions/redux/inc/welcome.php:205
+msgid "description"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:211
+msgid "Additional Updates"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:215
+#: ../functions/redux/inc/welcome.php:218
+#: ../functions/redux/inc/welcome.php:223
+#: ../functions/redux/inc/welcome.php:226
+#: ../functions/redux/inc/welcome.php:231
+#: ../functions/redux/inc/welcome.php:234
+msgid "Cool thing"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:216
+#: ../functions/redux/inc/welcome.php:219
+#: ../functions/redux/inc/welcome.php:224
+#: ../functions/redux/inc/welcome.php:227
+#: ../functions/redux/inc/welcome.php:232
+#: ../functions/redux/inc/welcome.php:235
+msgid "cool thing description."
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:241
+#: ../functions/redux/inc/welcome.php:274
+msgid "Go to Redux Framework"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:242
+msgid "View the Full Changelog"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:260
+#: ../functions/redux/inc/welcome.php:292
+#: ../functions/redux/inc/welcome.php:411
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready to "
+"make your <description>"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:266
+msgid "Full Changelog"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:297
+msgid ""
+"Use the tips below to get started using Redux Framework. You'll be up and "
+"running in no time!"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:300
+msgid "Creating Your First Panel"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:306
+#, php-format
+msgid "<a href=\"%s\">%s &rarr; Add New</a>"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:307
+#, php-format
+msgid ""
+"The %s menu is your access point for all aspects of your Easy Digital "
+"Downloads product creation and setup. To create your first product, simply "
+"click Add New and then fill out the product details."
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:309
+msgid "Product Price"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:310
+msgid ""
+"Products can have simple prices or variable prices if you wish to have more "
+"than one price point for a product. For a single price, simply enter the "
+"price. For multiple price points, click <em>Enable variable pricing</em> and "
+"enter the options."
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:312
+msgid "Download Files"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:313
+msgid ""
+"Uploading the downloadable files is simple. Click <em>Upload File</em> in "
+"the Download Files section and choose your download file. To add more than "
+"one file, simply click the <em>Add New</em> button."
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:319
+msgid "Display a Product Grid"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:325
+msgid "Flexible Product Grids"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:326
+msgid ""
+"The [downloads] shortcode will display a product grid that works with any "
+"theme, no matter the size. It is even responsive!"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:328
+msgid "Change the Number of Columns"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:329
+msgid ""
+"You can easily change the number of columns by adding the columns=\"x\" "
+"parameter:"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:332
+msgid "Additional Display Options"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:333
+#, php-format
+msgid ""
+"The product grids can be customized in any way you wish and there is <a href="
+"\"%s\">extensive documentation</a> to assist you."
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:338
+msgid "Purchase Buttons Anywhere"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:344
+msgid "The <em>[purchase_link]</em> Shortcode"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:345
+msgid ""
+"With easily accessible shortcodes to display purchase buttons, you can add a "
+"Buy Now or Add to Cart button for any product anywhere on your site in "
+"seconds."
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:347
+msgid "Buy Now Buttons"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:348
+msgid ""
+"Purchase buttons can behave as either Add to Cart or Buy Now buttons. With "
+"Buy Now buttons customers are taken straight to PayPal, giving them the most "
+"frictionless purchasing experience possible."
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:354
+msgid "Need Help?"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:358
+msgid "Phenomenal Support"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:359
+msgid ""
+"We do our best to provide the best support we can. If you encounter a "
+"problem or have a question, post a question in the <a href=\"https://"
+"easydigitaldownloads.com/support\">support forums</a>."
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:361
+msgid "Need Even Faster Support?"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:362
+msgid ""
+"Our <a href=\"https://easydigitaldownloads.com/support/pricing/\">Priority "
+"Support forums</a> are there for customers that need faster and/or more in-"
+"depth assistance."
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:368
+msgid "Stay Up to Date"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:372
+msgid "Get Notified of Extension Releases"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:373
+msgid ""
+"New extensions that make Easy Digital Downloads even more powerful are "
+"released nearly every single week. Subscribe to the newsletter to stay up to "
+"date with our latest releases. <a href=\"http://eepurl.com/kaerz\" target="
+"\"_blank\">Signup now</a> to ensure you do not miss a release!"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:375
+msgid "Get Alerted About New Tutorials"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:376
+msgid ""
+"<a href=\"http://eepurl.com/kaerz\" target=\"_blank\">Signup now</a> to hear "
+"about the latest tutorial releases that explain how to take Easy Digital "
+"Downloads further."
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:382
+msgid "Extensions for Everything"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:386
+msgid "Over 250 Extensions"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:387
+msgid ""
+"Add-on plugins are available that greatly extend the default functionality "
+"of Easy Digital Downloads. There are extensions for payment processors, such "
+"as Stripe and PayPal, extensions for newsletter integrations, and many, many "
+"more."
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:389
+msgid "Visit the Extension Store"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:390
+msgid ""
+"<a href=\"https://easydigitaldownloads.com/extensions\" target=\"_blank"
+"\">The Extensions store</a> has a list of all available extensions, "
+"including convenient category filters so you can find exactly what you are "
+"looking for."
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:416
+msgid ""
+"Redux Framework is created by a worldwide team of developers who <something "
+"witty here>"
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:436
+msgid "No valid changlog was found."
+msgstr ""
+
+#: ../functions/redux/inc/welcome.php:474
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:47
+#: ../functions/theme-functions/theme-functions.php:68
+msgid "Edit Comment"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:52
+#: ../functions/theme-functions/theme-functions.php:73
+msgid "Your comment is now awaiting moderation."
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:148
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:150
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:152
+#, php-format
+msgid "%s Archives"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:154
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:156
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:158
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:161
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:164
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:166
+#, php-format
+msgid "No Results for: %s"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:169
+msgid "Not Found"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:171 ../single.php:14
+msgid "Blog"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:190
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:343
+msgid "Gallery Cover"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:344
+msgid "Set Slideshow Image"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:57
+msgid "General"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:62
+msgid "Tracking Code"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:63
+msgid ""
+"Paste your Google Analytics or other tracking code here. Validate that it's "
+"javascript!"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:71
+msgid "The Wedding"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:76
+msgid "Wedding date"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:77
+msgid "Wedding date. Format: <code>MM/DD/YYYY."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:78
+msgid "Click to enter a date"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:85
+msgid "Wedding time"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:86
+msgid "Wedding time. Format: <code>HH:MM</code> (24 hour format)."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:87
+msgid "For example 14:00"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:94
+msgid "Wedding Events"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:95
+msgid "The events will be displayed in the RSVP form widget"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:105
+msgid "The Couple"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:110
+msgid "Groom Info"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:117
+msgid "Groom Full Name"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:124
+msgid "Groom short description"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:132
+msgid "Groom Photo"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:133
+#: ../functions/theme-functions/theme-options.php:206
+msgid "Please upload 150x150 image."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:141
+msgid "Groom Facebook Profile URL"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:148
+msgid "Groom Twitter Profile URL"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:155
+msgid "Groom Google+ Profile URL"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:162
+msgid "Groom Pinterest Profile URL"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:169
+msgid "Groom Youtube Profile URL"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:176
+msgid "Groom Flickr Profile URL"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:190
+msgid "Bride Full Name"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:197
+msgid "Bride short description"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:205
+msgid "Bride Photo"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:214
+msgid "Bride Facebook Profile URL"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:221
+msgid "Bride Twitter Profile URL"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:228
+msgid "Bride Google+ Profile URL"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:235
+msgid "Bride Pinterest Profile URL"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:242
+msgid "Bride Youtube Profile URL"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:249
+msgid "Bride Flickr Profile URL"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:258
+msgid "Appearance"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:263
+msgid "Logo Type"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:264
+msgid "Select logo type."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:265
+msgid "Text"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:265
+msgid "Image"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:273
+msgid "Text Logo"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:274
+msgid "Bride & Groom names."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:284
+msgid "Image Logo"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:286
+msgid "Upload your logo or type the URL on the text box."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:293
+msgid "Favicon"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:296
+msgid "Upload your favicon."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:303
+msgid "Custom CSS Codes"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:306
+msgid ""
+"Type your custom CSS codes here, alternatively you can also write down you "
+"custom CSS styles on the custom.css file located on the theme root directory."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:315
+msgid "Colors"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:320
+msgid "Main Link Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:332
+msgid "Sub Pages Header Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:352
+msgid "Footer Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:372
+msgid "Footer Link Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:385
+msgid "Menu Settings"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:386
+msgid "Menu color settings."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:392
+msgid "Main Menu Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:412
+msgid "Main Menu Opacity Value"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:424
+msgid "Menu Link Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:425
+msgid "Link color for main menu in the header and when the page is scrolled."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:437
+msgid "Menu Border Border"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:451
+msgid "Post Settings"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:452
+msgid "Post color settings."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:458
+msgid "General Widget & Page Title Border Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:475
+msgid "Breadcrumb Link Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:487
+msgid "Post Grid Border"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:488
+msgid "Border for post grid such as the ones in Events and Blog sections."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:502
+msgid "Form Settings"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:503
+msgid "Form color settings."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:509
+msgid "Text Input Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:528
+msgid "Text Input Border"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:541
+msgid "Text Input Text Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:550
+msgid "Button Background Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:569
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:588
+msgid "Button text Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:599
+msgid "About the Couple Widget"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:605
+#: ../functions/theme-functions/theme-options.php:695
+#: ../functions/theme-functions/theme-options.php:770
+#: ../functions/theme-functions/theme-options.php:1046
+msgid "Widget Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:624
+#: ../functions/theme-functions/theme-options.php:723
+#: ../functions/theme-functions/theme-options.php:789
+#: ../functions/theme-functions/theme-options.php:842
+#: ../functions/theme-functions/theme-options.php:921
+#: ../functions/theme-functions/theme-options.php:993
+#: ../functions/theme-functions/theme-options.php:1065
+msgid "Widget Title Border Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:641
+#: ../functions/theme-functions/theme-options.php:806
+#: ../functions/theme-functions/theme-options.php:885
+#: ../functions/theme-functions/theme-options.php:938
+#: ../functions/theme-functions/theme-options.php:1010
+#: ../functions/theme-functions/theme-options.php:1082
+msgid "Text Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:650
+msgid "Socil Media Icon Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:667
+msgid "Socil Media Icon Link Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:681
+#: ../functions/theme-functions/theme-options.php:688
+msgid "Countdown Widget"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:689
+msgid "Countdown widget color settings."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:714
+msgid "Widget Main Text Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:740
+msgid "Timer Box Text Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:749
+msgid "Countdown Border"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:764
+msgid "RSVP Widget"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:817
+msgid "Testimonials Widget"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:823
+msgid "Testimonial Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:859
+msgid "Quote Bubble Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:876
+msgid "Quote Bubble Text Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:896
+msgid "Events Widget"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:902
+msgid "Events Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:947
+#: ../functions/theme-functions/theme-options.php:1019
+msgid "Post Grid Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:968
+msgid "Blog Widget"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:974
+msgid "Blog Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1040
+msgid "Couple Tweets Widget"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1091
+msgid "Link Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1106
+msgid "Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1110
+msgid "Overall Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1117
+msgid "Paragraph Text"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1135
+msgid "Text Logo in  Homepage"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1153
+msgid "Text Below Logo"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1173
+msgid "Wedding Date in Header"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1191
+#: ../functions/theme-functions/theme-support.php:22
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1212
+msgid "Post Meta"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1229
+msgid "Footer Text"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1246
+msgid "Sidebar Widget Title"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1262
+msgid "Homepage Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1269
+msgid "Homepage Widget Title"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1289
+msgid "Homepage Sub Title"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1306
+msgid "Countdown Timer"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1323
+msgid "Countdown Time Units"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1340
+msgid "Couple Names"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1356
+msgid "Post Detail Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1363
+msgid "Post Title"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1380
+msgid "Archive Post Title"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1397
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1414
+msgid "Blockquote"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1433
+msgid "H1 Heading"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1450
+msgid "H2 Heading"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1467
+msgid "H3 Heading"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1484
+msgid "H4 Heading"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1501
+msgid "H5 Heading"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1518
+msgid "H6 Heading"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1535
+msgid "Submit Button"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1552
+msgid "Comment Meta"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1569
+msgid "Comment Moderation Text"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1586
+msgid "Gallery Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1593
+msgid "Gallery Filter"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1612
+msgid "Gallery Hover Title"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1628
+msgid "Testimonial Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1635
+msgid "Testimonial Content"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1658
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1659
+#: ../functions/theme-functions/theme-options.php:1665
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1664
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1669
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1689
+#: ../functions/theme-functions/theme-options.php:1690
+msgid "Theme Options"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1774
+msgid ""
+"<p>If you like this theme, please consider giving it a 5 star rating on "
+"ThemeForest. <a href=\"http://themeforest.net/downloads\" target=\"_blank"
+"\">Rate now</a>.</p>"
+msgstr ""
+
+#: ../functions/theme-functions/theme-styles.php:45
+msgid "We've Been Married For"
+msgstr ""
+
+#: ../functions/theme-functions/theme-widgets.php:15
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions/theme-functions/theme-widgets.php:24
+msgid "Homepage"
+msgstr ""
+
+#: ../header.php:39
+msgid "Are Getting Married"
+msgstr ""
+
+#: ../includes/pagination.php:17
+msgid "<i class=\"fa fa-chevron-left\"></i>previous"
+msgstr ""
+
+#: ../includes/pagination.php:18
+msgid "next<i class=\"fa fa-chevron-right\"></i>"
+msgstr ""
+
+#: ../includes/widgets/warrior-about-couple.php:24
+msgid "Warrior About Couple Widget"
+msgstr ""
+
+#: ../includes/widgets/warrior-about-couple.php:27
+msgid "Home: Warrior About Couple"
+msgstr ""
+
+#: ../includes/widgets/warrior-about-couple.php:108
+msgid "The Happy Couple"
+msgstr ""
+
+#: ../includes/widgets/warrior-about-couple.php:111
+#: ../includes/widgets/warrior-blog.php:107
+#: ../includes/widgets/warrior-couple-tweets.php:159
+#: ../includes/widgets/warrior-events.php:129
+#: ../includes/widgets/warrior-gallery.php:119
+#: ../includes/widgets/warrior-map.php:76
+#: ../includes/widgets/warrior-rsvp.php:71
+#: ../includes/widgets/warrior-testimonial.php:106
+msgid "Widget Title:"
+msgstr ""
+
+#: ../includes/widgets/warrior-about-couple.php:114
+#, php-format
+msgid "The data taken from <a href=\"%s\" target=\"_blank\">Theme Options</a>."
+msgstr ""
+
+#: ../includes/widgets/warrior-blog.php:24
+msgid "Warrior Blog Widget"
+msgstr ""
+
+#: ../includes/widgets/warrior-blog.php:27
+msgid "Home: Warrior Blog"
+msgstr ""
+
+#: ../includes/widgets/warrior-blog.php:104
+msgid "The Blog"
+msgstr ""
+
+#: ../includes/widgets/warrior-blog.php:104
+#: ../includes/widgets/warrior-events.php:126
+msgid ""
+"This is just and example text to add below the section title. You can add "
+"any text to suit your needs. HTML tags are being stripped."
+msgstr ""
+
+#: ../includes/widgets/warrior-blog.php:111
+#: ../includes/widgets/warrior-events.php:133
+msgid "Widget Sub Title:"
+msgstr ""
+
+#: ../includes/widgets/warrior-blog.php:115
+#: ../includes/widgets/warrior-events.php:137
+#: ../includes/widgets/warrior-testimonial.php:110
+msgid "Number of Post to be Displayed:"
+msgstr ""
+
+#: ../includes/widgets/warrior-countdown.php:24
+msgid "Warrior Countdown Widget"
+msgstr ""
+
+#: ../includes/widgets/warrior-countdown.php:27
+msgid "Home: Warrior Countdown"
+msgstr ""
+
+#: ../includes/widgets/warrior-countdown.php:40
+msgid "It's Happening"
+msgstr ""
+
+#: ../includes/widgets/warrior-countdown.php:52
+msgid "Error: You need to set the wedding date & time from the theme options."
+msgstr ""
+
+#: ../includes/widgets/warrior-countdown.php:70
+#, php-format
+msgid ""
+"This data taken from <a href=\"%s\" target=\"_blank\">Theme Options</a>."
+msgstr ""
+
+#: ../includes/widgets/warrior-couple-tweets.php:24
+msgid "Warrior Couple Tweets Widget"
+msgstr ""
+
+#: ../includes/widgets/warrior-couple-tweets.php:27
+msgid "Home: Warrior Couple Tweets"
+msgstr ""
+
+#: ../includes/widgets/warrior-couple-tweets.php:80
+#: ../includes/widgets/warrior-couple-tweets.php:109
+msgid " ago"
+msgstr ""
+
+#: ../includes/widgets/warrior-couple-tweets.php:153
+msgid "Couple Tweets"
+msgstr ""
+
+#: ../includes/widgets/warrior-couple-tweets.php:153
+msgid "Follow %name% on Twitter"
+msgstr ""
+
+#: ../includes/widgets/warrior-couple-tweets.php:163
+msgid "Tweets Count:"
+msgstr ""
+
+#: ../includes/widgets/warrior-couple-tweets.php:167
+msgid "Button Text:"
+msgstr ""
+
+#: ../includes/widgets/warrior-couple-tweets.php:170
+#, php-format
+msgid "Notes: %s will be replace with the name"
+msgstr ""
+
+#: ../includes/widgets/warrior-couple-tweets.php:173
+msgid ""
+"You can get Twitter consumer key & consumer secret by <a href=\"http://dev."
+"twitter.com\" target=\"_blank\">creating an app</a> on Twitter."
+msgstr ""
+
+#: ../includes/widgets/warrior-couple-tweets.php:176
+msgid "The Groom"
+msgstr ""
+
+#: ../includes/widgets/warrior-couple-tweets.php:178
+#: ../includes/widgets/warrior-couple-tweets.php:206
+msgid "Twitter Name:"
+msgstr ""
+
+#: ../includes/widgets/warrior-couple-tweets.php:182
+#: ../includes/widgets/warrior-couple-tweets.php:210
+msgid "Twitter Photo:"
+msgstr ""
+
+#: ../includes/widgets/warrior-couple-tweets.php:192
+#: ../includes/widgets/warrior-couple-tweets.php:220
+msgid "Twitter Username:"
+msgstr ""
+
+#: ../includes/widgets/warrior-couple-tweets.php:196
+#: ../includes/widgets/warrior-couple-tweets.php:224
+msgid "Twitter Consumer key:"
+msgstr ""
+
+#: ../includes/widgets/warrior-couple-tweets.php:200
+#: ../includes/widgets/warrior-couple-tweets.php:228
+msgid "Twitter Consumer secret:"
+msgstr ""
+
+#: ../includes/widgets/warrior-couple-tweets.php:204
+msgid "The Bride"
+msgstr ""
+
+#: ../includes/widgets/warrior-events.php:24
+msgid "Warrior Events Widget"
+msgstr ""
+
+#: ../includes/widgets/warrior-events.php:27
+msgid "Home: Warrior Events"
+msgstr ""
+
+#: ../includes/widgets/warrior-events.php:126
+msgid "The Events"
+msgstr ""
+
+#: ../includes/widgets/warrior-events.php:140
+#, php-format
+msgid ""
+"The events data are taken from <a href=\"%s\" target=\"_blank\">Event post "
+"type</a>."
+msgstr ""
+
+#: ../includes/widgets/warrior-gallery.php:26
+msgid "Warrior Gallery ALbum Widget"
+msgstr ""
+
+#: ../includes/widgets/warrior-gallery.php:29
+msgid "Home: Warrior Gallery Album"
+msgstr ""
+
+#: ../includes/widgets/warrior-gallery.php:116
+msgid "Photo Gallery"
+msgstr ""
+
+#: ../includes/widgets/warrior-gallery.php:123
+msgid "Number of Album to be Displayed:"
+msgstr ""
+
+#: ../includes/widgets/warrior-gallery.php:126
+#, php-format
+msgid ""
+"The gallery data are taken from <a href=\"%s\" target=\"_blank\">Gallery "
+"post type</a>."
+msgstr ""
+
+#: ../includes/widgets/warrior-map.php:24
+msgid "Warrior Map Widget"
+msgstr ""
+
+#: ../includes/widgets/warrior-map.php:27
+msgid "Home: Warrior Map"
+msgstr ""
+
+#: ../includes/widgets/warrior-map.php:70
+msgid "Our Wedding Location"
+msgstr ""
+
+#: ../includes/widgets/warrior-map.php:74
+msgid ""
+"You can either specify an address or latitude longitude coordinate to "
+"specify the precise map target location."
+msgstr ""
+
+#: ../includes/widgets/warrior-map.php:80
+msgid "Map Name:"
+msgstr ""
+
+#: ../includes/widgets/warrior-map.php:84
+msgid "Map Address:"
+msgstr ""
+
+#: ../includes/widgets/warrior-map.php:88
+msgid "Map Image:"
+msgstr ""
+
+#: ../includes/widgets/warrior-map.php:98
+msgid "Map Latitude:"
+msgstr ""
+
+#: ../includes/widgets/warrior-map.php:102
+msgid "Map Longitude:"
+msgstr ""
+
+#: ../includes/widgets/warrior-map.php:106
+msgid "Map Zoom Level:"
+msgstr ""
+
+#: ../includes/widgets/warrior-rsvp.php:24
+msgid "RSVP form Widget"
+msgstr ""
+
+#: ../includes/widgets/warrior-rsvp.php:27
+msgid "Home: Warrior RSVP"
+msgstr ""
+
+#: ../includes/widgets/warrior-rsvp.php:68
+msgid "Don't Forget to RSVP"
+msgstr ""
+
+#: ../includes/widgets/warrior-rsvp.php:68
+msgid "You can change this text from the widget setting."
+msgstr ""
+
+#: ../includes/widgets/warrior-rsvp.php:75
+msgid "Contact Form 7 ID:"
+msgstr ""
+
+#: ../includes/widgets/warrior-rsvp.php:78
+#, php-format
+msgid ""
+"Type in the form ID from Contact Form 7 that will use to display the RSVP "
+"form. You can see the form ID from <a href=\"%s\" target=\"_blank\">this "
+"page</a>. Please refer to <a class=\"thickbox\" href=\"%s\">screenshot</a> "
+"for more detail."
+msgstr ""
+
+#: ../includes/widgets/warrior-rsvp.php:79
+#, php-format
+msgid ""
+"All submission will be sent to the email address set on <a href=\"%s\" "
+"target=\"_blank\">theme options</a>."
+msgstr ""
+
+#: ../includes/widgets/warrior-testimonial.php:26
+msgid "Warrior Testimonials Widget"
+msgstr ""
+
+#: ../includes/widgets/warrior-testimonial.php:29
+msgid "Home: Warrior Testimonials"
+msgstr ""
+
+#: ../includes/widgets/warrior-testimonial.php:103
+msgid "Testimonials from Friends &amp; Families"
+msgstr ""
+
+#: ../includes/widgets/warrior-testimonial.php:113
+#, php-format
+msgid ""
+"The testimonials data are taken from <a href=\"%s\" target=\"_blank"
+"\">Testimonial post type</a>."
+msgstr ""
+
+#: ../index.php:35
+msgid ""
+"The page you're looking for is not available. The page may have been deleted "
+"or unpublished."
+msgstr ""
+
+#: ../page-home.php:18
+msgid ""
+"There's no widget assigned. You can start assigning widgets to \"Homepage\" "
+"widget area from the <a href=\""
+msgstr ""
+
+#: ../searchform.php:13
+msgid " Search..."
+msgstr ""
+
+#: ../searchform.php:14
+msgid "Search"
+msgstr ""
+
+#: ../sidebar.php:15
+msgid ""
+"There's no widget assigned. You can start assigning widgets to \"Sidebar\" "
+"widget area from the <a href=\""
+msgstr ""
