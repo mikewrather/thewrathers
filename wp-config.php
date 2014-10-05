@@ -23,8 +23,10 @@ if (file_exists(dirname(__FILE__) . '/local-config.php')) {
 if (!defined('DB_NAME')) {
 	define('DB_NAME', 'wedding');
 }
+
+
 if (!defined('DB_USER')) {
-	define('DB_USER', 'root');
+    define('DB_USER', ($_SERVER['SERVER_NAME'] == 'wedding.dev') ? 'root' : 'mike');
 }
 if (!defined('DB_PASSWORD')) {
 	define('DB_PASSWORD', 'qmi13j');
